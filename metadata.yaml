@@ -20,6 +20,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Charles_Waterton
 description: A travel book describing the country of the Orinoco as it appeared to
   an explorer over a century ago.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31811#Wanderings-in-South-America
 gutenberg_issued: '2010-03-28'
 gutenberg_type: Text
 identifiers:
