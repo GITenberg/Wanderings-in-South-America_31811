@@ -1,0 +1,39 @@
+_repo: Wanderings-in-South-America_31811
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Moore, Norman
+    birthdate: 1847
+    deathdate: 1922
+    gutenberg_agent_id: '35512'
+    url: http://www.gutenberg.org/2009/agents/35512
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Waterton, Charles
+    birthdate: 1782
+    deathdate: 1865
+    gutenberg_agent_id: '2673'
+    url: http://www.gutenberg.org/2009/agents/2673
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Waterton
+description: A travel book describing the country of the Orinoco as it appeared to
+  an explorer over a century ago.
+gutenberg_issued: '2010-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zoology -- Guyana'
+- !lcc 'F2351'
+- !lcsh 'Guyana -- Description and travel'
+- !lcsh 'Pernambuco (Brazil) -- Description and travel'
+- !lcsh 'Waterton, Charles, 1782-1865 -- Travel'
+- !lcsh 'Antilles, Lesser -- Description and travel'
+title: Wanderings in South America
+url: http://www.gutenberg.org/ebooks/31811
